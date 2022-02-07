@@ -9,6 +9,22 @@
 <body>
     <h1>Getting started with Firebase 9.0</h1>
 
+    <!-- add student form -->
+    <form class="add-student" style="display: flex;flex-direction: column;width: 20%;">
+        <label for="name">Name:</label>
+        <input type="text" name="name" required>
+        <label for="course">Course:</label>
+        <input type="text" name="course" required><br>
+        <button>Add Student</button>
+    </form><br>
+
+     <!-- delete student form -->
+     <form class="delete-student">
+        <label for="id">Document id:</label>
+        <input type="text" name="id" required>
+        <button>Delete Student</button>
+    </form>
+
     <script src="bundle.js"></script>
 </body>
 </html>

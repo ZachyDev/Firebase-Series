@@ -15,7 +15,7 @@
   \**********************/
 /***/ (() => {
 
-eval("console.log(\"Hello dev Zachy\");\n\n//# sourceURL=webpack://firebase-series/./src/index.js?");
+eval("const firebaseConfig = {\r\n    apiKey: \"AIzaSyDgFT_a4AFYV17_yeMlwQOEZZGJ71Rw2Gk\",\r\n    authDomain: \"fir-9-do-6b87f.firebaseapp.com\",\r\n    projectId: \"fir-9-do-6b87f\",\r\n    storageBucket: \"fir-9-do-6b87f.appspot.com\",\r\n    messagingSenderId: \"926747255617\",\r\n    appId: \"1:926747255617:web:8870b670471dd9fa26b7c0\"\r\n  };\n\n//# sourceURL=webpack://firebase-series/./src/index.js?");
 
 /***/ })
 
